@@ -16,7 +16,7 @@ The project is divided into four main phases, corresponding to the progression f
 
   - Visualizing spatial temperature distributions over Europe and Spain.
 
-## 2. Urban Heat Island (UHI) & Altitude Analysis (week2.ipynb)
+## 2. Urban Heat Island (UHI) & Altitude Analysis (week2-team31-sbyyaat.ipynb)
 - Objective: Understand the "Bias"—why does the satellite say one thing while the ground station says another?
 
 - Key Tasks:
@@ -27,7 +27,7 @@ The project is divided into four main phases, corresponding to the progression f
 
   - Identifying that UHI effects in summer are the primary drivers of error.
 
-## 3. Machine Learning Foundations (week3.ipynb)
+## 3. Machine Learning Foundations (week3-team31-sbyyaat.ipynb)
 - Objective: Predict "Reality" based on "Satellite Data."
 
 - Models Tested:
@@ -38,7 +38,7 @@ The project is divided into four main phases, corresponding to the progression f
 
   - Feature Engineering: Incorporating spatial coordinates and temporal features to improve accuracy.
 
-## 4. Final Correction Pipeline (weekfinal.ipynb)
+## 4. Final Correction Pipeline (weekfinal-team31-sbyyaat.ipynb)
 - Objective: A production-ready script to "clean" ERA5 data for Madrid.
 
 - Key Results:
