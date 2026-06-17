@@ -2,7 +2,7 @@
 
 # GenHack — ERA5-Land Bias Correction & Urban Heat Island Analysis
 
-**4-week data science hackathon · Team 31 (sbyyaat) · Télécom Paris**
+**4-week data science hackathon · Team 31 (sbyyaat) · Ecole Polytechnique**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
@@ -260,16 +260,16 @@ pip install scikit-learn statsmodels tensorflow tqdm
 ## Team
 
 **Team 31 — sbyyaat**  
-Hackathon GenHack · Télécom Paris
+Hackathon GenHack · Ecole Polytechnique
 
 **Mahmoud Bajjou** — Télécom Paris, Data Science & AI  
-📧 masterbajou123@gmail.com  
+📧 mahmoudbajjou5@gmail.com  
 🔗 [GitHub](https://github.com/mahmoud-bajjou)
 
 ---
 
 <div align="center">
 
-*GenHack 4-week Hackathon · Télécom Paris · 2025*
+*GenHack 4-week Hackathon · Ecole Polytechnique · 2025*
 
 </div>
