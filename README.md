@@ -264,7 +264,7 @@ Hackathon GenHack · Ecole Polytechnique
 
 **Mahmoud Bajjou** — Télécom Paris, Data Science & AI  
 📧 mahmoudbajjou5@gmail.com  
-🔗 [GitHub](https://github.com/mahmoud-bajjou)
+🔗 [GitHub](https://github.com/mahmoudbajjou)
 
 ---
 
